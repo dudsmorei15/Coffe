@@ -229,7 +229,7 @@ body.cardapio .left-section img{
         margin-top: 20px;
     }
 }
-@media(max-width:500px){
+@media(max-width:1000px){
     header nav a {
         font-size:12px;
         margin-left: 10px;
